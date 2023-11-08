@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#InputNota {
+    display: grid;
+}
+
+#divCalculo {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 90%;
+    padding: 8px;
+    border:none;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+input {
+    width: 100%;
+    padding: 3px;
+    border: 1px solid rgb(54, 53, 53);
+    border-radius: 9px;
+}
+
+#DivbotaoNome {
+    display: flex;
+    justify-content: center;
+}
+
+#Divnome {
+    border: 1px solid black;
+    padding: 30px;
+}
+
+#DivNota {
+    border: 1px solid black;
+    padding: 30px;
+    margin-top: 2rem;
+}
+
+#Divnumerov {
+    border: 1px solid black;
+    margin-top: 2rem;
+    padding: 30px;
+}
